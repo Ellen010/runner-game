@@ -11,6 +11,8 @@
   --sky: #bde0fe;
   --pink: #ffc8dd;
   --dpink: #ffafcc;
+  --cucumber: "adf7b6";
+  --candy: #f72585;
 }
 
 body {
@@ -55,7 +57,7 @@ body {
 }
 
 .btn:hover {
-  background-image: linear-gradient(#ffcc4c, #f89808);
+  background-image: linear-gradient( #ffff00, #f72585);
 }
 
 .btn-container {
